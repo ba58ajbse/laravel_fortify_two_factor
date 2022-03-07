@@ -1,0 +1,25 @@
+.qrCode {
+  width: fit-content;
+  margin: 8px auto;
+}
+
+.codesContainer {
+  display: grid;
+  gap: 0.25rem;
+  max-width: 24rem;
+  padding: 4px;
+  margin: 12px auto 4px;
+  font-family: Nunito, monospace;
+  font-size: 1rem;
+  background-color: rgb(218 218 218);
+  border-radius: 0.5rem;
+}
+
+.regenerateButton {
+  padding: 4px 12px;
+  margin-top: 16px;
+  font-size: 16px;
+  color: white;
+  background-color: #ff5722;
+  border-radius: 8px;
+}

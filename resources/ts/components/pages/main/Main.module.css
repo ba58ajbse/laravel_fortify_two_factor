@@ -1,0 +1,32 @@
+.container {
+  width: 100%;
+  text-align: center;
+}
+
+.primaryButton {
+  padding: 4px 12px;
+  margin-top: 16px;
+  font-size: 16px;
+  color: white;
+  background-color: rgb(29 114 243);
+  border-radius: 8px;
+}
+
+.errorButton {
+  padding: 4px 12px;
+  margin-top: 16px;
+  font-size: 16px;
+  color: white;
+  background-color: rgb(255 50 50);
+  border-radius: 8px;
+}
+
+.showTwoFAInfoButton {
+  padding: 4px 12px;
+  margin-top: 16px;
+  font-size: 16px;
+  color: black;
+  background-color: rgb(255 255 255);
+  border: 1px solid black;
+  border-radius: 8px;
+}
